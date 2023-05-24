@@ -1,0 +1,26 @@
+{
+    "posts": [
+      { "id": 1, 
+      "name": "Hayrullo", 
+      "last-name": "Anorboyev",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLkuiar_rQ42CX8QQS1Ympe7OrZ1bBL4pvVKdBH9Q&s"
+     },
+     { "id": 2, 
+     "name": "Erlan", 
+     "last-name": "Abdusamatov",
+     "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLkuiar_rQ42CX8QQS1Ympe7OrZ1bBL4pvVKdBH9Q&s"
+    },
+    { "id": 3, 
+    "name": "Firdavs", 
+    "last-name": "Erqulov",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLkuiar_rQ42CX8QQS1Ympe7OrZ1bBL4pvVKdBH9Q&s"
+   },
+   { "id": 4, 
+   "name": "Sarvar", 
+   "last-name": "Abdumajidov",
+   "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLkuiar_rQ42CX8QQS1Ympe7OrZ1bBL4pvVKdBH9Q&s"
+  }
+    ]
+  }
+
+
